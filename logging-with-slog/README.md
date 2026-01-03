@@ -28,6 +28,14 @@ Ex:
 
 ---
 
+**COMO EXECUTAR OS EXEMPLOS**
+
+```bash
+# go run <NOME_DO_PROGRAMA>
+# Ex:
+go run 01-simple.go
+```
+
 ## Exemplo Simples de Logging
 
 ```go
